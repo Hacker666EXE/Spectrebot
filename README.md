@@ -14,7 +14,7 @@ Este bot envia mensagens automaticamente para um grupo do Telegram em intervalos
 
     ```sh
     git clone https://github.com/Hacker666EXE/Spectrebot/
-    cd seu-repositorio
+    cd Spectrebot
     ```
 
 2. **Instale o PHP e Composer (se ainda não tiver):**
